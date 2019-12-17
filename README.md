@@ -1,4 +1,4 @@
-Congression_App_Contest: CarGame
+#Congression_App_Contest: CarGame
 Advanced Java Topics
 11/01/2020
     Clarification on the submission:
